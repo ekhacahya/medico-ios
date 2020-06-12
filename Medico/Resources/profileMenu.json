@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name":"My Doctors",
+        "image":"mydoctor",
+    },
+    {
+        "id": 2,
+        "name":"Appointments",
+        "image":"appointment",
+    },
+    {
+        "id": 3,
+        "name":"Online Consultation",
+        "image":"consultation",
+    },
+    {
+        "id": 4,
+        "name":"Medical Records",
+        "image":"medicalrecord",
+    },
+    {
+        "id": 5,
+        "name":"Reminders",
+        "image":"remiders",
+    },
+    {
+        "id": 6,
+        "name":"Health Interest",
+        "image":"healthinterest",
+    },
+    {
+        "id": 7,
+        "name":"My Payments",
+        "image":"payments",
+    },
+    {
+        "id": 8,
+        "name":"Offers",
+        "image":"offers",
+    }
+]
+

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name":"Doctors",
+        "specialist":"Ophthalmologist, Dermatologist, etc.",
+    },
+    {
+        "id": 2,
+        "name":"Dentists",
+        "specialist":"Dentist, Prosthodontist, etc.",
+    },
+    {
+        "id": 3,
+        "name":"Alternative Medicine Doctors",
+        "specialist":"Ayurveda, Homeopath, etc.",
+    },
+    {
+        "id": 4,
+        "name":"Therapists & Nutritionists",
+        "specialist":"Acupuncturist, Physiotherapist, etc.",
+    }
+]
+
